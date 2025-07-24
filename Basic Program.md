@@ -28,6 +28,7 @@ sh welcome.sh
 ```
 
 **Create command for this script**
+
 Copy the script:
 ```
 cp -v welocome.sh /usr/bin/welcome
