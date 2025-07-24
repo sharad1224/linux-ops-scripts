@@ -8,7 +8,8 @@ A simple Bash script to greet the system administrator.
 
 ## 📜 Script Content
 
-```bash
+```
 #!/bin/bash
 
 echo "Hey System Admin......."
+```
