@@ -2,8 +2,6 @@
 
 ## 🚀 Script: Welcome Message
 
----
-
 ```
 #!/bin/bash
 
