@@ -1,5 +1,4 @@
 # linux-ops-scripts
----
 
 ## 🚀 Script: Welcome Message
 
