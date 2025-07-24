@@ -40,7 +40,7 @@ welcome
 ## 🚀 Script: Variable Print Program
 
 ```
-#!bin/bash
+#!/bin/bash
 greeting=Hello
 name="Sharad Patel"
 echo $greeting $name
@@ -49,7 +49,7 @@ echo $greeting $name
 ## 🚀 Script: User value Program
 
 ```
-#!bin/bash
+#!/bin/bash
 echo "What is your name?"
 read Person
 echo "Hello! $Person"
