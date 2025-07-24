@@ -13,3 +13,18 @@ A simple Bash script to greet the system administrator.
 
 echo "Hey System Admin......."
 ```
+Save the script to a file, e.g., welcome.sh
+
+Make it executable:
+```
+chmod +x welcome.sh
+```
+
+Run the script:
+```
+./welcome.sh
+```
+or
+```
+sh welcome.sh
+```
