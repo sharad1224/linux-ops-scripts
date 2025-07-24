@@ -54,9 +54,20 @@ echo "What is your name?"
 read Person
 echo "Hello! $Person"
 ```
+##
+## 🚀 Script: Addition Program
 
-
-
+```
+#!/bin/bash
+echo "Enter A Value"
+read A
+echo "Enter B value"
+read B
+var=$((A+B))
+echo "==="
+echo $var
+```
+##
 
 
 
