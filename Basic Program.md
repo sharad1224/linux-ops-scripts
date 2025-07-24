@@ -26,3 +26,28 @@ or
 ```
 sh welcome.sh
 ```
+
+**Create command for this script**
+Copy the script:
+```
+cp -v welocome.sh /usr/bin/welcome
+```
+And run command:
+```
+welcome
+```
+
+## 🚀 Script: Addition Program
+
+```
+#!bin/bash
+
+
+
+
+
+
+
+
+
+
