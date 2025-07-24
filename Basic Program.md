@@ -4,7 +4,6 @@
 
 ```
 #!/bin/bash
-
 echo "Hey System Admin......."
 ```
 **Save the script to a file, e.g., welcome.sh**
@@ -38,10 +37,28 @@ And run command:
 welcome
 ```
 ##
-## 🚀 Script: Addition Program
+## 🚀 Script: Variable Print Program
 
 ```
 #!bin/bash
+greeting=Hello
+name="Sharad Patel"
+echo $greeting $name
+```
+##
+## 🚀 Script: User value Program
+
+```
+#!bin/bash
+echo "What is your name?"
+read Person
+echo "Hello! $Person"
+```
+
+
+
+
+
 
 
 
