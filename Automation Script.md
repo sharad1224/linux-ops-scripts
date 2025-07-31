@@ -2,3 +2,4 @@
 
 ## 🚀 Script: CPU info
 
+
