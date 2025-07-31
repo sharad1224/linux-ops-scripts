@@ -3,3 +3,8 @@
 ## 🚀 Script: CPU info
 
 
+
+
+
+
+
