@@ -54,11 +54,11 @@ podman info
 podman login registry.lab.example.com
 ```
 
-Use the following credentials:
+Use the own credentials:
 
 ```makefile
-Username: admin
-Password: redhat321
+Username: a****
+Password: *********
 ```
 
 ---
